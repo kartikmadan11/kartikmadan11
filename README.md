@@ -18,7 +18,6 @@ AI Engineer & Full-Stack Developer based in London, UK.
 - 🤖 Full-Stack & AI Engineer with 5 years of experience building at scale.
 - 🚀 Currently deep in AI agents, multi-agent workflows, and text2sql. Also open source, because sleep is overrated.
 - 🖋️ Occasional thoughts on <a href="https://kartikmadan11.medium.com/">Medium</a>
-- ⚽ Football is life.
 
 <h3>
 Find me on
